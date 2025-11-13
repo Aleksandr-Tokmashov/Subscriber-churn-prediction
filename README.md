@@ -1,9 +1,9 @@
-Цель: Создать модель предсказания того, уйдёт ли абонент в отток
+**Цель**: Создать модель предсказания того, уйдёт ли абонент в отток
 
-Используемые модели: DecisionTreeClassifier, RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier
-Лучшие модели: AdaBoostClassifier, GradientBoostingClassifier
+**Используемые модели**: DecisionTreeClassifier, RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier
+**Лучшие модели**: AdaBoostClassifier, GradientBoostingClassifier
 
-Результат классификации:
+**Результат классификации**:
 
 | Class   | Precision | Recall | F1-Score | Support |
 |---------|-----------|--------|----------|---------|
